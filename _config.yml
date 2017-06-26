@@ -24,11 +24,10 @@ description: Lei ZHANG's Webpage!
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Research: "research"
-  Publications: "publications"
+  Patent: "patent"
+  Publication: "publications"
   Teaching: "teaching"
-  Projects: "projects"
-  Tools: "tools"
+  Project: "projects"
   Contact: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)

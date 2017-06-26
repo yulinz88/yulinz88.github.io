@@ -1,23 +1,60 @@
 ---
 layout: page
-title: Research projects
+title: Research project
 ---
 
-<div class="content">
-<h3>Projet Seed4C 2012-2015</h3>
-<p> Membre du projet européen Celtic Seed4C (Secured Embedded Element for Cloud). </p>
-<p>Ingénieur expert.</p>
-<p><a href="http ://www.celticplus-seed4c.org/">http ://www.celticplus-seed4c.org</a>
- </p>
+### Jan.2017-Dec.2021
 
-<h3>Projet SAAMR 2014-2016</h3>
-<p> Membre du projet chinois NFSC (National Natural Science Foundation of China) SAAMR (Software Architectures for Autonomous Mobile Robots Using Model Driven Engineering). </p>
-<p>Project coordinator.</p>
+**Nonlinear Control Methodology for Cyber-Physical Systems, No. 61633007**
+
+NSFC Key Project, China, National, Package Leader
 
 
-<h3>Projet TERESA 2009-2012</h3>
-<p> Membre du projet européen FP7 TERESA (Trusted computing Engineering<br />
-for Resource constrained Embedded Systems Applications). </p>
-<p>Responsable du workpackage 3.</p>
-<p><a href="http://www.teresa-project.org">http://www.teresa-project.org</a>
-</p>
+
+### Jan.2015-Dec.2019
+
+**Theory and Methodology of Real-Time Diagnosis and Prognosis of Incipient and Composite Faults for Information Control Systems of High-Speed Trains**
+
+Major Program of the National Natural Science Foundation of China, National, Package Leader
+
+
+
+### Jan.2014-Dec.2016
+
+**SAAMRMDE：A Software Architecture for Autonomous Mobile Robots Using Model Driven Engineering**
+
+A National Natural Science Foundation of China Project, National, Project Leader
+
+
+
+### Oct.2012-Sep.2014
+
+**Advanced Control Technique for Mineral Processing**
+
+National Key Technology Research and Development Program of the Ministry of
+Science and Technology of China, National, Package Leader
+
+
+
+### Nov.2011-Oct.2014
+
+**MRNPDSE : Mobile Robot Navigation Problem in a Dynamic Structured Environment**
+
+The Project Sponsored by the Scientific Research Foundation for the Returned
+Overseas Chinese Scholars, Northeastern University, University, Project Leader
+
+
+
+### Dec.2010-Oct.2011
+
+**SEAMOVES：Sensor Enabling Autonomous Motion By Optimized Visual Environment Sensing**
+
+An EURIPIDES-EUREKA Project, EU, Participant
+
+
+
+### Mai.2010-Nov.2010
+
+**C_Flam**
+
+An ANR (The French National Research Agency) Project, National, Participant
