@@ -7,7 +7,7 @@ title: Publication
 ### Dissertation
 
 Title:Self-Adaptive Markov Localization for Single-Robot and Multi-Robot Systems
-Robotics Department of LIRMM, Montpellier University II, Montpellier, France<br/>
+Robotics Department of LIRMM, Montpellier University II, Montpellier, France
 
 
 ## Publications
@@ -21,7 +21,7 @@ L. Zhang*, B. Jouvencel, Z. Fang and X. Xiang, **3D Reconstruction of Seabed Sur
 Z. Fang, W. Gao, and L. Zhang*, **Robust Adaptive Integral Backstepping Control of a 3-DOF Helicopter**, International Journal of Advanced Robotic Systems (IJARS), 9(79): 1-8, 2012
 
 
-##Conference
+## Conference
 
 J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492.
 
@@ -29,7 +29,7 @@ Z. Wang, S. Liang, T. Liu and L. Zhang, **Robust adaptive attitude control of qu
 
 C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016.
 
-Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: To- wards a domain speci c language of architecture-centric cloud robotics**<. In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015.
+Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: To- wards a domain speci c language of architecture-centric cloud robotics**. In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015.
 
 Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics**. In 6th International Workshop on Domain Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, September 2015.
 
