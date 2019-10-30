@@ -14,6 +14,10 @@ Robotics Department of LIRMM, Montpellier University II, Montpellier, France
 
 ### Journal
 
+Yu Wang, Guangsheng Zhang, Lei ZHANG, Jiafu Tang and Huaizhong Mu, **A Column-Generation based Approach for Integrating Surgeon and Surgery Scheduling**, IEEE Access(SCI) ( Volume: 6 ),  Page(s): 41578 – 41589, 10 July 2018
+
+Mingyang Geng *, Kele Xu, Xing Zhou, Bo Ding *, Huaimin Wang, Lei Zhang, **Learning to Cooperate via Attention-based Communication Neural Network in Decentralized Multi-robot Exploration**, Entropy(SCI) 2019, 21(3), 294;
+
 L. Zhang*, R. Zapata and P. Lépinay, **Self-adaptive Monte Carlo Localization for Mobile Robots Using Range Finder**, Robotica, 30(02): 229–244, 2012
 
 L. Zhang*, B. Jouvencel, Z. Fang and X. Xiang, **3D Reconstruction of Seabed Surface through Sonar Data of AUVs**, Indian Journal of Geo-Marine Science (IJMS), 41(6): 509-515, 2012
@@ -22,6 +26,10 @@ Z. Fang, W. Gao, and L. Zhang*, **Robust Adaptive Integral Backstepping Control 
 
 
 ## Conference
+
+Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China
+
+Mingyang Geng, Xing Zhou, Bo Ding, Huaimin Wang, Lei Zhang, **Learning Communication Protocols for Decentralized Multi-robot Exploration Task in Dynamic Environments using Reinforcement Learning Approach**, International Conference on Neural Information Processing, 2018
 
 J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492.
 
