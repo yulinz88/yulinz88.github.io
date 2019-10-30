@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lei ZHANG
-subtitle: Associate Professor at Northeastern University, China
+# subtitle: Associate Professor at Northeastern University, China
 use-site-title: true
 ---
 
