@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lei ZHANG
-# subtitle: Associate Professor at Northeastern University, China
+subtitle: Robotics Ph.D.
 use-site-title: true
 ---
 
