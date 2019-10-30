@@ -14,9 +14,9 @@ Robotics Department of LIRMM, Montpellier University II, Montpellier, France
 
 ### Journal
 
-Yu Wang, Guangsheng Zhang, Lei ZHANG, Jiafu Tang and Huaizhong Mu, **A Column-Generation based Approach for Integrating Surgeon and Surgery Scheduling**, IEEE Access(SCI) ( Volume: 6 ),  Page(s): 41578 – 41589, 10 July 2018
-
 Mingyang Geng *, Kele Xu, Xing Zhou, Bo Ding *, Huaimin Wang, Lei Zhang, **Learning to Cooperate via Attention-based Communication Neural Network in Decentralized Multi-robot Exploration**, Entropy(SCI) 2019, 21(3), 294;
+
+Yu Wang, Guangsheng Zhang, Lei ZHANG, Jiafu Tang and Huaizhong Mu, **A Column-Generation based Approach for Integrating Surgeon and Surgery Scheduling**, IEEE Access(SCI) ( Volume: 6 ),  Page(s): 41578 – 41589, 10 July 2018
 
 L. Zhang*, R. Zapata and P. Lépinay, **Self-adaptive Monte Carlo Localization for Mobile Robots Using Range Finder**, Robotica, 30(02): 229–244, 2012
 
